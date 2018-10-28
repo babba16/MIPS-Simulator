@@ -1,5 +1,9 @@
 To make simulator
->make simulator>
+
+`make simulator`
+
+
 
 To make testbench
->make testbench>
+
+`make testbench`
